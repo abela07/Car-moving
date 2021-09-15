@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631575117 source:c:\users\abel\documents\graphics\ca\main.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
+1631575117 source:c:\users\abel\documents\graphics\car moving project\main.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
